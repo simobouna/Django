@@ -1,9 +1,8 @@
 *{
 	margin: 0;
 	padding: 0;
-	font-family: Century Gothic;
+	font-family: 'Poppins', sans-serif;
 }
-
 header{
 	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../dros.jpg);
 	height: 100vh;
@@ -50,5 +49,5 @@ ul li.active a{
 }
 .title h1{
 	color: #fff;
-	font-size: 55px;
+	font-size: 70px;
 }
