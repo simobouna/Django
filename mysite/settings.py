@@ -25,7 +25,7 @@ SECRET_KEY = '!rq+b3w%482*%$o9n3(d!h$q84xe*8bn@9*0!&hqv!o8j93n4n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['simobouna.pythonanywhere.com','127.0.0.1']
+ALLOWED_HOSTS = ['simobouna.pythonanywhere.com']
 
 
 # Application definition
